@@ -25,37 +25,39 @@
 #### Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sqlite)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
 ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 
 #### Frontend:
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) 
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![Material-UI](https://img.shields.io/badge/-Material--UI-black?style=flat-square&logo=mui)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) 
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css) 
+![Material-UI](https://img.shields.io/badge/-Material--UI-black?style=flat-square&logo=mui)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+
 
 #### Backend:
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) 
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express) 
-![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
+![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
 
 #### Databases:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) 
 
 #### Cloud & DevOps:
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws) 
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) 
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=github-actions) 
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) 
 ![CI/CD](https://img.shields.io/badge/-CI/CD-black?style=flat-square)
 
 #### Tools:
