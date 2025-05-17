@@ -15,6 +15,8 @@
   - **SparkLink** – Internship platform presented at Windsor Demo Day
   - **InsightCase** – Case management app with Microsoft 365 integration
   - **Trust & Track** – Logistics app with live geofencing
+
+- 🌐 Check out my portfolio: [meetbhavsar.dev](https://www.meetbhavsar.dev)
 - 📍 Based in Toronto, ON  
 - 📨 Reach me at: [meetbhavsar99@gmail.com](mailto:meetbhavsar99@gmail.com)
 
